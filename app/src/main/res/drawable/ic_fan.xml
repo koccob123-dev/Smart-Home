@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Center hub -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,12m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <!-- 4 Fan blades -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,12 C12,7 15,3 18,3 C19,5 18,9 14,11 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,12 C17,12 21,15 21,18 C19,19 15,18 13,14 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,12 C12,17 9,21 6,21 C5,19 6,15 10,13 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,12 C7,12 3,9 3,6 C5,5 9,6 11,10 Z" />
+</vector>

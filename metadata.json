@@ -1,0 +1,6 @@
+{
+  "name": "SmartHome NodeMCU",
+  "description": "Smart Home controller for ESP8266 NodeMCU via Adafruit IO MQTT over TLS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
